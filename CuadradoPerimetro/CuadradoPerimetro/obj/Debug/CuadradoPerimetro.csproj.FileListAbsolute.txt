@@ -1,0 +1,6 @@
+C:\Users\Gabriel\Desktop\C#\C# Ya\CuadradoPerimetro\CuadradoPerimetro\bin\Debug\CuadradoPerimetro.exe.config
+C:\Users\Gabriel\Desktop\C#\C# Ya\CuadradoPerimetro\CuadradoPerimetro\bin\Debug\CuadradoPerimetro.exe
+C:\Users\Gabriel\Desktop\C#\C# Ya\CuadradoPerimetro\CuadradoPerimetro\bin\Debug\CuadradoPerimetro.pdb
+C:\Users\Gabriel\Desktop\C#\C# Ya\CuadradoPerimetro\CuadradoPerimetro\obj\Debug\CuadradoPerimetro.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\C#\C# Ya\CuadradoPerimetro\CuadradoPerimetro\obj\Debug\CuadradoPerimetro.exe
+C:\Users\Gabriel\Desktop\C#\C# Ya\CuadradoPerimetro\CuadradoPerimetro\obj\Debug\CuadradoPerimetro.pdb
