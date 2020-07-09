@@ -1,0 +1,6 @@
+C:\Users\Gabriel\Desktop\C#\C# Ya\PrecioCantidad\PrecioCantidad\bin\Debug\PrecioCantidad.exe.config
+C:\Users\Gabriel\Desktop\C#\C# Ya\PrecioCantidad\PrecioCantidad\bin\Debug\PrecioCantidad.exe
+C:\Users\Gabriel\Desktop\C#\C# Ya\PrecioCantidad\PrecioCantidad\bin\Debug\PrecioCantidad.pdb
+C:\Users\Gabriel\Desktop\C#\C# Ya\PrecioCantidad\PrecioCantidad\obj\Debug\PrecioCantidad.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\C#\C# Ya\PrecioCantidad\PrecioCantidad\obj\Debug\PrecioCantidad.exe
+C:\Users\Gabriel\Desktop\C#\C# Ya\PrecioCantidad\PrecioCantidad\obj\Debug\PrecioCantidad.pdb

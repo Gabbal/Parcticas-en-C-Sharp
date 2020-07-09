@@ -1,0 +1,7 @@
+C:\Users\Gabriel\Desktop\C#\C# Ya\SumaPromedioNumeros\SumaPromedioNumeros\bin\Debug\SumaPromedioNumeros.exe.config
+C:\Users\Gabriel\Desktop\C#\C# Ya\SumaPromedioNumeros\SumaPromedioNumeros\bin\Debug\SumaPromedioNumeros.exe
+C:\Users\Gabriel\Desktop\C#\C# Ya\SumaPromedioNumeros\SumaPromedioNumeros\bin\Debug\SumaPromedioNumeros.pdb
+C:\Users\Gabriel\Desktop\C#\C# Ya\SumaPromedioNumeros\SumaPromedioNumeros\obj\Debug\SumaPromedioNumeros.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\C#\C# Ya\SumaPromedioNumeros\SumaPromedioNumeros\obj\Debug\SumaPromedioNumeros.exe
+C:\Users\Gabriel\Desktop\C#\C# Ya\SumaPromedioNumeros\SumaPromedioNumeros\obj\Debug\SumaPromedioNumeros.pdb
+C:\Users\Gabriel\Desktop\C#\C# Ya\SumaPromedioNumeros\SumaPromedioNumeros\obj\Debug\SumaPromedioNumeros.csprojAssemblyReference.cache

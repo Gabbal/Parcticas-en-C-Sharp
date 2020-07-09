@@ -1,0 +1,7 @@
+C:\Users\Gabriel\Desktop\C#\C# Ya\SumaProductoNumeros4\SumaProductoNumeros4\bin\Debug\SumaProductoNumeros4.exe.config
+C:\Users\Gabriel\Desktop\C#\C# Ya\SumaProductoNumeros4\SumaProductoNumeros4\bin\Debug\SumaProductoNumeros4.exe
+C:\Users\Gabriel\Desktop\C#\C# Ya\SumaProductoNumeros4\SumaProductoNumeros4\bin\Debug\SumaProductoNumeros4.pdb
+C:\Users\Gabriel\Desktop\C#\C# Ya\SumaProductoNumeros4\SumaProductoNumeros4\obj\Debug\SumaProductoNumeros4.csprojAssemblyReference.cache
+C:\Users\Gabriel\Desktop\C#\C# Ya\SumaProductoNumeros4\SumaProductoNumeros4\obj\Debug\SumaProductoNumeros4.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\C#\C# Ya\SumaProductoNumeros4\SumaProductoNumeros4\obj\Debug\SumaProductoNumeros4.exe
+C:\Users\Gabriel\Desktop\C#\C# Ya\SumaProductoNumeros4\SumaProductoNumeros4\obj\Debug\SumaProductoNumeros4.pdb
