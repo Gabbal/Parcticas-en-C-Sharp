@@ -1,0 +1,7 @@
+C:\Users\Gabriel\source\repos\ActCondición1\ActCondición1\bin\Debug\ActCondición1.exe.config
+C:\Users\Gabriel\source\repos\ActCondición1\ActCondición1\bin\Debug\ActCondición1.exe
+C:\Users\Gabriel\source\repos\ActCondición1\ActCondición1\bin\Debug\ActCondición1.pdb
+C:\Users\Gabriel\source\repos\ActCondición1\ActCondición1\obj\Debug\ActCondición1.csprojAssemblyReference.cache
+C:\Users\Gabriel\source\repos\ActCondición1\ActCondición1\obj\Debug\ActCondición1.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\ActCondición1\ActCondición1\obj\Debug\ActCondición1.exe
+C:\Users\Gabriel\source\repos\ActCondición1\ActCondición1\obj\Debug\ActCondición1.pdb

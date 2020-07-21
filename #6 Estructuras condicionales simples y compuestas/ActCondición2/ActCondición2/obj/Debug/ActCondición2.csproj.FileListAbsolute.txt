@@ -1,0 +1,7 @@
+C:\Users\Gabriel\Desktop\C#\C# Ya\ActCondición2\ActCondición2\bin\Debug\ActCondición2.exe.config
+C:\Users\Gabriel\Desktop\C#\C# Ya\ActCondición2\ActCondición2\bin\Debug\ActCondición2.exe
+C:\Users\Gabriel\Desktop\C#\C# Ya\ActCondición2\ActCondición2\bin\Debug\ActCondición2.pdb
+C:\Users\Gabriel\Desktop\C#\C# Ya\ActCondición2\ActCondición2\obj\Debug\ActCondición2.csprojAssemblyReference.cache
+C:\Users\Gabriel\Desktop\C#\C# Ya\ActCondición2\ActCondición2\obj\Debug\ActCondición2.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\C#\C# Ya\ActCondición2\ActCondición2\obj\Debug\ActCondición2.exe
+C:\Users\Gabriel\Desktop\C#\C# Ya\ActCondición2\ActCondición2\obj\Debug\ActCondición2.pdb
