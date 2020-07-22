@@ -1,0 +1,7 @@
+C:\Users\Gabriel\Desktop\C#\C# Ya\Anidado2\Anidado2\bin\Debug\Anidado2.exe.config
+C:\Users\Gabriel\Desktop\C#\C# Ya\Anidado2\Anidado2\bin\Debug\Anidado2.exe
+C:\Users\Gabriel\Desktop\C#\C# Ya\Anidado2\Anidado2\bin\Debug\Anidado2.pdb
+C:\Users\Gabriel\Desktop\C#\C# Ya\Anidado2\Anidado2\obj\Debug\Anidado2.csprojAssemblyReference.cache
+C:\Users\Gabriel\Desktop\C#\C# Ya\Anidado2\Anidado2\obj\Debug\Anidado2.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\C#\C# Ya\Anidado2\Anidado2\obj\Debug\Anidado2.exe
+C:\Users\Gabriel\Desktop\C#\C# Ya\Anidado2\Anidado2\obj\Debug\Anidado2.pdb
